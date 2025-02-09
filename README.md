@@ -46,6 +46,17 @@
 </p>
 
 #### Contact
-[![Facebook](https://img.shields.io/badge/-FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/nguyen.trung.850099)
-[![Instagram](https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ntt_51)
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nguyentrungt151@gmail.com)
+## Contact:
+
+<a href="https://www.facebook.com/nguyen.trung.850099">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" height="25">
+</a>
+
+<a href="https://instagram.com/ntt_51">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" height="25">
+</a>
+
+<a href="mailto:nguyentrungt151@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="25">
+</a>
+
